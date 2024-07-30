@@ -1,0 +1,1 @@
+script2.jsとstyle2.cssで被りなど不要そうなものを削除したのが、script3.jsとstyle3.css
